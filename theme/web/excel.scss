@@ -1,0 +1,6 @@
+@import './custom-variables';
+
+// excel import management
+.import-template-new-scroll > .modal-content.mx-window-content > .modal-body.mx-window-body > .mx-scrollcontainer.mx-scrollcontainer-horizontal.mx-scrollcontainer-fixed > .mx-scrollcontainer-center > .mx-scrollcontainer-wrapper{
+    overflow-y: hidden;
+}
